@@ -44,4 +44,8 @@ linkedin  •  /in/paulos19
 
 email      •  seu.email@exemplo.com
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<br />
+<div align="center">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Paulos19/Paulos19/output/github-snake.svg">
+</div>
+<br />
