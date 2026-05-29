@@ -1,5 +1,3 @@
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
-
 # ─── Paulo Henrique
 ### full stack engineer 
 
@@ -39,3 +37,9 @@ Core: Integração nativa e otimização de performance com Spline 3D, pipelines
 Ecosistema mobile de leitura imersiva e engajamento de comunidade.
 
 Core: Desenvolvido em React Native, conta com pipeline completo de sincronização offline, renderizadores customizados de texto de alta fidelidade e arquitetura modular de componentes focada em baixíssima latência.
+
+<br />
+<div align="center">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Paulos19/Paulos19/output/github-snake-custom.svg">
+</div>
+<br />
