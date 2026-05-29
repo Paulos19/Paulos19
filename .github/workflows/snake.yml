@@ -1,12 +1,10 @@
-name: Generate Custom Snake
+name: Generate Snake
 
 on:
   schedule:
-    # Roda a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# Permissão obrigatória para evitar o erro de Exit Code 128
 permissions:
   contents: write
 
@@ -16,15 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # Action customizada com cor e fundo transparente
-      - uses: Sutil/snk@master
-        id: snake-gif
+      # Usa a ação oficial na versão v3 que é 100% estável
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-snake-custom.svg
-          snake_color: '#3b82f6' 
+          # Gera um SVG com fundo transparente e a cobra em azul (#3b82f6)
+          outputs: |
+            dist/github-snake.svg?color_snake=#3b82f6&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
-      # Atualizado para v4 para evitar o aviso do Node.js
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
