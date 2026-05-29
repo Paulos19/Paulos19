@@ -15,6 +15,7 @@ const engineer = {
   ai_ops:    ["n8n Orchestration", "Gemini API", "OpenAI API", "LLM Memory Layers"],
   mobile:    ["React Native / Expo"]
 };
+````
 🌌 featured engineering
 🔹 fitoclin & confirme
 Plataforma avançada de CRM, PEP (Prontuário Eletrônico) e Gestão Clínica multimódulo.
@@ -42,3 +43,5 @@ Core: Desenvolvido em React Native, conta com pipeline completo de sincronizaç�
 linkedin  •  /in/paulos19
 
 email      •  seu.email@exemplo.com
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
