@@ -37,3 +37,13 @@ Core: Integração nativa e otimização de performance com Spline 3D, pipelines
 Ecosistema mobile de leitura imersiva e engajamento de comunidade.
 
 Core: Desenvolvido em React Native, conta com pipeline completo de sincronização offline, renderizadores customizados de texto de alta fidelidade e arquitetura modular de componentes focada em baixíssima latência.
+
+<br />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paulos19/Paulos19/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paulos19/Paulos19/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Paulos19/Paulos19/output/github-snake.svg">
+  </picture>
+</div>
+<br />
