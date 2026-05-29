@@ -1,7 +1,8 @@
+Markdown
 # ─── Paulo Henrique
 ### full stack engineer 
 
-Construo aplicações web de alta performance, arquiteturas multitenant e fluxos complexos de automação orquestrados por inteligência artificial. Focado em desenvolver produtos robustos com código limpo, interfaces fluidas e excelente usabilidade (UI/UX).
+Tenho 26 anos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atuo no desenvolvimento Full Stack. Construo aplicações web de alta performance, arquiteturas multitenant e fluxos complexos de automação orquestrados por inteligência artificial. Focado em desenvolver produtos robustos com código limpo, interfaces fluidas e excelente usabilidade (UI/UX).
 
 ---
 
@@ -14,7 +15,6 @@ const engineer = {
   ai_ops:    ["n8n Orchestration", "Gemini API", "OpenAI API", "LLM Memory Layers"],
   mobile:    ["React Native / Expo"]
 };
-
 🌌 featured engineering
 🔹 fitoclin & confirme
 Plataforma avançada de CRM, PEP (Prontuário Eletrônico) e Gestão Clínica multimódulo.
@@ -38,8 +38,7 @@ Ecosistema mobile de leitura imersiva e engajamento de comunidade.
 
 Core: Desenvolvido em React Native, conta com pipeline completo de sincronização offline, renderizadores customizados de texto de alta fidelidade e arquitetura modular de componentes focada em baixíssima latência.
 
-<br />
-<div align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Paulos19/Paulos19/output/github-snake-custom.svg">
-</div>
-<br />
+🔌 connect
+linkedin  •  /in/paulos19
+
+email      •  seu.email@exemplo.com
