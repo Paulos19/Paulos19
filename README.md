@@ -1,4 +1,3 @@
-Markdown
 # ─── Paulo Henrique
 ### full stack engineer 
 
@@ -40,9 +39,9 @@ Ecosistema mobile de leitura imersiva e engajamento de comunidade.
 Core: Desenvolvido em React Native, conta com pipeline completo de sincronização offline, renderizadores customizados de texto de alta fidelidade e arquitetura modular de componentes focada em baixíssima latência.
 
 🔌 connect
-linkedin  •  /in/paulos19
+linkedin  •  [/in/paulos19](https://www.linkedin.com/in/paulo-henrique20/)
 
-email      •  seu.email@exemplo.com
+email      •  paulohenrique.012araujo@gmail.com
 
 <br />
 <div align="center">
